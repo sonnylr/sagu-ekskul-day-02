@@ -10,12 +10,12 @@
 
     <h1>
 
-    <?php echo "Hello Project 02"; ?>
+    <?php echo 'Hello "Project 02"'; ?>
 
     </h1>
 
     <p>
-        <?php echo "Welcome to Project 02..."; ?>
+        <?php echo "Welcome to 'Project 02'..."; ?>
     </p>
     
 </body>
